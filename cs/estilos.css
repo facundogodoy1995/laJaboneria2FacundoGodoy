@@ -1,0 +1,76 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@100;300;400&family=Open+Sans:wght@300;500&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+}
+
+/*estilos pagina index*/
+
+/*estilos header*/
+.logo{
+    width: 90px;
+    height: 90px;
+}
+.colorHeader{
+    background-color: rgb(247, 247, 247);
+}
+
+/*estilos main*/
+
+
+.carousel-item{
+    height: 62vh;
+    
+}
+
+/*estilos footer*/
+.contenedorRedes{
+    display: flex;
+    justify-content: space-between;
+}
+.contenedorRedes a{
+    color: black;
+    font-size: 30px;
+    margin: 5px;
+}
+.colorFooter{
+    background-color: rgb(247, 247, 247);
+}
+
+/*estilos pagina nosotros*/
+
+/*estilos main*/
+.contenedorImagenNosotros{
+  
+}
+
+.imagenNosotros{
+    height: 100vh;
+    object-fit: scale-down;
+    
+}
+
+/*estilos pagina galeria*/
+
+/*estilos body*/
+
+
+/*estilos main*/
+
+.imgGaleria{
+    height: 50vh;
+    object-fit: scale-down;
+}
+
+/*estilos pagina productos*/
+
+.imgProductos{
+    width: 400px;
+    height: 300px;
+    object-fit: cover;
+}
