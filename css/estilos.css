@@ -1,0 +1,83 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@100;300;400&family=Open+Sans:wght@300;500&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Lato", sans-serif;
+  font-family: "Open Sans", sans-serif;
+}
+
+/*estilos pagina index*/
+/*estilos main*/
+.carousel-item {
+  height: 62vh;
+}
+
+/*estilos pagina nosotros*/
+.cardinha {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+}
+
+/*estilos main*/
+.imagenNosotros {
+  height: 100vh;
+  object-fit: scale-down;
+}
+
+/*estilos pagina galeria*/
+/*estilos body*/
+/*estilos main*/
+.imgGaleria {
+  height: 50vh;
+  object-fit: scale-down;
+}
+
+/*estilos header*/
+.colorHeader {
+  background-color: rgb(247, 247, 247);
+}
+.colorHeader .logo {
+  width: 90px;
+  height: 90px;
+}
+
+/*estilos footer*/
+.colorFooter {
+  background-color: rgb(247, 247, 247);
+}
+.colorFooter .contenedorRedes {
+  display: flex;
+  justify-content: space-between;
+}
+
+.contenedorRedesA {
+  color: black;
+  font-size: 30px;
+  margin: 5px;
+}
+
+/*estilos pagina productos*/
+.imgProductos {
+  width: 400px;
+  height: 300px;
+  object-fit: cover;
+}
+
+.caja:hover {
+  border: 1px solid black;
+}
+
+/*estilos pagina contacto*/
+.mainContacto {
+  height: 70vh;
+}
+
+@media screen and (max-width: 768px) {
+  .mainContacto {
+    height: 78vh;
+  }
+}
+
+/*# sourceMappingURL=estilos.css.map */

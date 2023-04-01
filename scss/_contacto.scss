@@ -1,0 +1,10 @@
+/*estilos pagina contacto*/
+.mainContacto{
+    height: 70vh;
+}
+
+@media screen and (max-width: 768px) {
+    .mainContacto{
+        height: 78vh;
+    }
+}

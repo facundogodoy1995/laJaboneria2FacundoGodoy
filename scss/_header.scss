@@ -1,0 +1,11 @@
+/*estilos header*/
+
+
+.colorHeader{
+    background-color: $color-gris;
+    .logo{
+        width: map-get($tamaños, ancho-logo);
+        height: 90px;
+    }
+}
+
