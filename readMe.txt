@@ -15,3 +15,4 @@ No pude crear mixin, al hacerlo se me desconfiguraba el proyecto
 En la hoja _footer tampoco pude anidar la clase .contenedorRedesA. Antes lo tenía como contenerdorRedes a (con selector de clase y etiqueta). Probé de ambas formas y no pude. También probé anidando solo la etiqueta del ancla pero no hubo forma. En el resto si hubo anidación.
 Use un hover en la pagina productos para marcar el borde de los mismos
 Usé animación "fade up" en la pagina Nosotros
+Apliqué Seo
