@@ -45,6 +45,14 @@
 }
 
 /*estilos header*/
+.linksNaveg {
+  font-weight: normal;
+}
+
+.linksNaveg:hover {
+  font-weight: bold;
+}
+
 .colorHeader {
   background-color: rgb(247, 247, 247);
 }
