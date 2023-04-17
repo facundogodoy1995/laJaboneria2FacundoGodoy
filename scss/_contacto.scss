@@ -1,4 +1,16 @@
 /*estilos pagina contacto*/
+.colorBoton{
+    
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 2px;
+    
+}
+
+.colorBoton:hover{
+    background-color: #c3eeda;
+}
+
 .mainContacto{
     height: 70vh;
 }

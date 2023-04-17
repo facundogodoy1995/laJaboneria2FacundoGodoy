@@ -6,6 +6,12 @@
     object-fit: cover;
 }
 
+@media screen and (max-width: 768px) {
+    .imgProductos{
+        width: 95%;
+    }
+}
+
 .caja:hover{
     border: 1px solid black;
     

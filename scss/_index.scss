@@ -2,12 +2,18 @@
 /*estilos pagina index*/
 
 
-
 /*estilos main*/
+
 
 .carousel-item{
     height: 62vh;
     
+}
+
+@media screen and (max-width: 768px) {
+    .altoCarousel{
+        height: 30vh;
+    }
 }
 
 

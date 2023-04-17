@@ -1,0 +1,12 @@
+.imagen404{
+    height: 70vh;
+    object-fit: cover;
+}
+
+@media screen and (max-width: 768px) {
+    .imagen404{
+        height: 80h;
+        width: 90vw;
+        object-fit: scale-down;
+    }
+}

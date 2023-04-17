@@ -1,0 +1,5 @@
+@mixin contenedor($color,$fs,$mg){
+    color: $color;
+    font-size: $fs;
+    margin: $mg;
+}
